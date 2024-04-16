@@ -1,0 +1,10 @@
+com\advertisex\dataengineering\storage\DataStorage.class
+com\advertisex\dataengineering\ingestion\JSONDataIngester.class
+com\advertisex\dataengineering\ingestion\CSVDataIngester.class
+com\advertisex\dataengineering\monitoring\ErrorDetector.class
+com\advertisex\dataengineering\processing\DataTransformer.class
+com\advertisex\dataengineering\ingestion\AvroDataIngester.class
+com\advertisex\dataengineering\MainApplication.class
+com\advertisex\dataengineering\monitoring\DataMonitor.class
+com\advertisex\dataengineering\processing\DataProcessor.class
+com\advertisex\dataengineering\storage\QueryEngine.class

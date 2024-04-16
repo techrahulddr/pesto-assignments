@@ -1,0 +1,10 @@
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\monitoring\ErrorDetector.java
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\storage\DataStorage.java
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\MainApplication.java
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\ingestion\JSONDataIngester.java
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\ingestion\CSVDataIngester.java
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\processing\DataProcessor.java
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\storage\QueryEngine.java
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\processing\DataTransformer.java
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\monitoring\DataMonitor.java
+E:\AdvertiseXDataEngineering\src\main\java\com\advertisex\dataengineering\ingestion\AvroDataIngester.java

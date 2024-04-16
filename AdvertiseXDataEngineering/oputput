@@ -1,0 +1,16 @@
+"C:\Program Files\Java\jdk1.8.0_202\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\lib\idea_rt.jar=57773:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;E:\AdvertiseXDataEngineering\target\classes;C:\Users\rahul\.m2\repository\org\json\json\20210307\json-20210307.jar;C:\Users\rahul\.m2\repository\org\apache\commons\commons-csv\1.9.0\commons-csv-1.9.0.jar;C:\Users\rahul\.m2\repository\org\apache\avro\avro\1.11.0\avro-1.11.0.jar;C:\Users\rahul\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.5\jackson-core-2.12.5.jar;C:\Users\rahul\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.5\jackson-databind-2.12.5.jar;C:\Users\rahul\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.5\jackson-annotations-2.12.5.jar;C:\Users\rahul\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\rahul\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar" com.advertisex.dataengineering.MainApplication
+Ingested JSON data: AdCreativeID=abc123, UserID=user456, Timestamp=2024-04-14T10:30:00, Website=example.com
+Ingested JSON data: AdCreativeID=def456, UserID=user789, Timestamp=2024-04-14T12:45:00, Website=example.org
+Ingested JSON data: AdCreativeID=ghi789, UserID=user123, Timestamp=2024-04-14T15:20:00, Website=example.net
+Ingested CSV data: UserID=user456, Timestamp=2024-04-14T10:35:00, CampaignID=campaign123, ConversionType=purchase
+Ingested CSV data: UserID=user789, Timestamp=2024-04-14T12:50:00, CampaignID=campaign456, ConversionType=signup
+Ingested CSV data: UserID=user123, Timestamp=2024-04-14T15:25:00, CampaignID=campaign789, ConversionType=purchase
+Data transformation and enrichment completed.
+Data processing completed.
+Processed data stored successfully.
+Query executed: SELECT * FROM processed_data
+Error detection completed.
+Data monitoring completed.
+Data engineering simulation completed.
+
+Process finished with exit code 0
