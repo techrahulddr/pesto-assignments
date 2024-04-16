@@ -46,7 +46,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository**:
    ```bash
-   //git clone https://github.com/your-username/advertise-x-data-engineering.git
+   //git clone https://github.com/techrahulddr/pesto-assignments/tree/main/AdvertiseXDataEngineering
 
 
 1: Navigate to Project Directory:
